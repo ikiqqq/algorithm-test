@@ -6,6 +6,6 @@ function anagram (word1, word2){
     
 }
 
-console.log (anagram("tets","te"))
-console.log (anagram("tets","stet"))
+console.log (anagram('aaz', 'zza'))
+console.log (anagram('anagram', 'nagaram'))
 
